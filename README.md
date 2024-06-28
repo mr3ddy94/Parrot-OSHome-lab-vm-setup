@@ -80,4 +80,3 @@ This guide provides a step-by-step process to create and configure a Parrot OS V
 - **Slow performance**: Check that you've allocated sufficient resources (CPU, RAM) and installed VMware Tools.
 - **Network issues**: Ensure the VM's network adapter is set to `Bridged` or `NAT`.
 
-https://1drv.ms/i/s!Aq_zhbW9oi2UrHn9idP5is4j9uao?e=RMPoKR
